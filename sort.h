@@ -35,6 +35,7 @@ typedef struct listint_s
 
 /* Printing helper functions */
 void print_array(const int *array, size_t size);
+void insertion_sort_list(listint_t **list);
 
 
 /* Sorting algoritms */
